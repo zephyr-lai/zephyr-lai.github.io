@@ -64,7 +64,7 @@ education:
   - area: B.E. Computer Science and Technology
     institution: Fuzhou University
     date_start: 2015-09-01
-    date_end: 2019-6-30
+    date_end: 2019-06-30
     summary: |
       GPA: 3.4/4.0
       
