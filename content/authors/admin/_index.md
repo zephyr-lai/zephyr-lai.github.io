@@ -11,7 +11,7 @@ last_name: Lai
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,25 +31,33 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lzping1996@gmail.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:lzping1996@gmail.com'
+    label: mail
   - icon: brands/github
     url: https://github.com/zephyr-lai
+    label: github
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/%E5%BF%97%E5%B9%B3-%E8%B5%96-45ab5134a/
+    label: linkedin
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=oYRK793tsGYC&hl=zh-CN
+    label: google scholar
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
+  #   label: orcid
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  #   label: x
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  #   label: instagram
 
 interests:
   - Electronic Design Automation
   - Artificial Intelligence
   - Brain-Computer Interface
+  - Robotics
+  - Quant
 
 education:
   - area: M.S. Computer Applied Technology
@@ -66,8 +74,7 @@ education:
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      GPA: 3.4/4.0
-      
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -169,5 +176,4 @@ awards:
 ---
 
 ## Biography
-
-#x
+I am a senior engineer at Shanghai LEDA Technology (Shanghai LEDA Technology Co., Ltd.). Previously, I worked as a software intern in Fudan Microelectronics Group from 2019 to 2020, intern researcher in SenseTime from 2020 to 2021, and algorithm intern in ByteDance from 2021 to 2022. I received the M.S. degree in Computer Applied Technology from Fudan University in 2022 and the B.E. degree in Computer Science and Technology from Fuzhou University in 2019. My interests include electronic design automation, artificial intelligence, brain-computer interface, robotics, and quant.
