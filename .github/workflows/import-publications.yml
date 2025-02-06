@@ -36,7 +36,6 @@ jobs:
         if: ${{ hashFiles('publications.bib') != '' }}
         run: |
           academic import publications.bib content/zh/publication --compact
-          academic import publications.bib content/en/publication --compact
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
