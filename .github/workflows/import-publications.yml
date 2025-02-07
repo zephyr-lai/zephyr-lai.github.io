@@ -45,8 +45,8 @@ jobs:
           commit-message: 'content: import publications from Bibtex'
           title: Hugo Blox Builder - Import latest publications
           body: |
-            Import the latest publications from `publications.bib` to `content/publication/`.
-            将最新的出版物从`publications.bib`导入到`content/publication/`。
+            Import the latest publications from `publications.bib` to `content/en/publication/` and `content/zh/publication/`.
+            将最新的出版物从`publications.bib`导入到`content/en/publication/`和`content/zh/publication/`。
             [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
           labels: automated-pr, content
