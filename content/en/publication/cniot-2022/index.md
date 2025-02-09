@@ -20,5 +20,8 @@ tags:
 - Correlation;Convolution;Gesture recognition;Assistive robots;Spatiotemporal phenomena;Internet
   of Things;Data mining;Graph attention network;temporal convolutional network;sEMG;gesture
   recognition;graph structure
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/abstract/document/9814747
 weight: 60
 ---

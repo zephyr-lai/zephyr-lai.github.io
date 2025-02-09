@@ -33,5 +33,9 @@ abstract: Gesture recognition using surface electromyography (sEMG) is the techn
   GCNs. On two high-density sEMG (HD-sEMG) datasets and a sparse armband dataset,
   STCN-GR outperforms previous works and achieves the state-of-the-art, which shows
   superior performance and powerful generalization ability.
-weight: 20
+doi: 10.1007/978-3-030-92238-2_3
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-030-92238-2_3
+weight: 30
 ---

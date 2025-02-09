@@ -7,9 +7,12 @@ main:
   - name: 首页
     url: /
     weight: 10
+  - name: 背景
+    url: /#about
+    weight: 11
   - name: 论文
     url: /#papers
-    weight: 11
+    weight: 12
   # - name: Talks
   #   url: /#talks
   #   weight: 12

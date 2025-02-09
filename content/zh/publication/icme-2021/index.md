@@ -16,5 +16,8 @@ tags:
 - Training;Heating systems;Annotations;Pulmonary diseases;Feature extraction;Lesions;Task
   analysis;Computer-aided diagnosis;limited data;chest X-ray;semi-supervised learning;contrastive
   learning
-weight: 30
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/abstract/document/9428273
+weight: 50
 ---

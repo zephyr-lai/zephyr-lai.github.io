@@ -14,5 +14,8 @@ publication: '*2018 14th IEEE International Conference on Solid-State and Integr
 doi: 10.1109/ICSICT.2018.8564925
 tags:
 - ''
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/abstract/document/8564925
 weight: 40
 ---
