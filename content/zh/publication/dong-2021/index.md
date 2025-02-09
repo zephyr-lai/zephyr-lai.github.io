@@ -28,4 +28,5 @@ abstract: With the rapid development of robot assisted surgery, the segmentation
 links:
 - name: URL
   url: https://dx.doi.org/10.1088/1742-6596/2003/1/012006
+weight: 70
 ---

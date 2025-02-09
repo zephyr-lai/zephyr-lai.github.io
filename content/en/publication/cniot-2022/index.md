@@ -10,7 +10,7 @@ authors:
 - Weiqi Zhang
 - Xiuhong Tang
 date: '2022-01-01'
-publishDate: '2025-02-07T13:55:32.299148Z'
+publishDate: '2025-02-07T13:55:32.119501Z'
 publication_types:
 - paper-conference
 publication: '*2022 3rd International Conference on Computing, Networks and Internet
@@ -20,4 +20,5 @@ tags:
 - Correlation;Convolution;Gesture recognition;Assistive robots;Spatiotemporal phenomena;Internet
   of Things;Data mining;Graph attention network;temporal convolutional network;sEMG;gesture
   recognition;graph structure
+weight: 60
 ---

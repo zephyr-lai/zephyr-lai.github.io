@@ -22,4 +22,5 @@ doi: 10.1109/CYBER55403.2022.9907033
 tags:
 - Deep learning;Neural networks;Gesture recognition;Control systems;Manipulators;Real-time
   systems;Electromyography
+weight: 50
 ---

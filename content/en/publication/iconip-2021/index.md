@@ -11,7 +11,7 @@ authors:
 - Lan Niu
 - Huijie Huang
 date: '2021-01-01'
-publishDate: '2025-02-07T13:31:14.581868Z'
+publishDate: '2025-02-07T13:31:14.397377Z'
 publication_types:
 - paper-conference
 publication: '*Neural Information Processing*'
@@ -33,4 +33,5 @@ abstract: Gesture recognition using surface electromyography (sEMG) is the techn
   GCNs. On two high-density sEMG (HD-sEMG) datasets and a sparse armband dataset,
   STCN-GR outperforms previous works and achieves the state-of-the-art, which shows
   superior performance and powerful generalization ability.
+weight: 20
 ---

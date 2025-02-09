@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: 下载简历
-        url: uploads/resume.pdf
+        url: uploads/resume.zh.pdf
     # design:
     #   css_class: dark
     #   background:
@@ -57,6 +57,9 @@ sections:
     content:
       title: 论文
       text: ""
+      count: 100
+      sort_by: weight
+      order: asc # asc | desc
       filters:
         folders:
           - publication

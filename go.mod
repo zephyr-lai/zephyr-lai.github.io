@@ -1,4 +1,4 @@
-module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
+module github.com/zephyr-lai/zephyr-lai.github.io
 
 go 1.19
 

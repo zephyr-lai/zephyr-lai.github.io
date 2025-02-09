@@ -16,4 +16,5 @@ tags:
 - Training;Heating systems;Annotations;Pulmonary diseases;Feature extraction;Lesions;Task
   analysis;Computer-aided diagnosis;limited data;chest X-ray;semi-supervised learning;contrastive
   learning
+weight: 30
 ---

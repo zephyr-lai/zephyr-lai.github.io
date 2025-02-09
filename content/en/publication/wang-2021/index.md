@@ -8,7 +8,7 @@ authors:
 - Zhiping Lai
 - Jiawei Wang
 date: '2021-08-01'
-publishDate: '2025-02-07T13:31:14.596424Z'
+publishDate: '2025-02-07T13:31:14.412054Z'
 publication_types:
 - article-journal
 publication: '*Journal of Physics: Conference Series*'
@@ -31,4 +31,5 @@ abstract: In 2021, the total number of motor vehicles in China has exceeded 370 
 links:
 - name: URL
   url: https://dx.doi.org/10.1088/1742-6596/2003/1/012009
+weight: 80
 ---

@@ -17,4 +17,5 @@ doi: 10.1109/IJCB54206.2022.10008005
 tags:
 - Human computer interaction;Electric potential;Biometrics (access control);Gesture
   recognition;Self-supervised learning;Electromyography;Calibration
+weight: 10
 ---

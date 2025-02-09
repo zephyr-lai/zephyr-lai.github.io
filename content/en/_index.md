@@ -57,6 +57,9 @@ sections:
     content:
       title: Publications
       text: ""
+      count: 100
+      sort_by: weight
+      order: asc # asc | desc
       filters:
         folders:
           - publication
