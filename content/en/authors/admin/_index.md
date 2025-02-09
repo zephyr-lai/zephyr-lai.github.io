@@ -175,5 +175,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Biography
+# Biography
 I am a senior engineer at Shanghai LEDA Technology (Shanghai LEDA Technology Co., Ltd.). Previously, I worked as a software intern in Fudan Microelectronics Group from 2019 to 2020, intern researcher in SenseTime from 2020 to 2021, and algorithm intern in ByteDance from 2021 to 2022. I received the M.S. degree in Computer Applied Technology from Fudan University in 2022 and the B.E. degree in Computer Science and Technology from Fuzhou University in 2019. My interests include electronic design automation, artificial intelligence, brain-computer interface, robotics, and quant.

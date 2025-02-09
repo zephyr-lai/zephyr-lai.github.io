@@ -131,6 +131,9 @@
 - id: experience
   translation: Experience
 
+- id: work
+  translation: Work
+
 - id: present
   translation: Present
 

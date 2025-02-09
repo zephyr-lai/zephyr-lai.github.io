@@ -40,7 +40,8 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} 赖志平. 本网站许可证为 {license}'
+    # notice: '© {year} Zhiping Lai. This work is licensed under {license}'
+    notice: '© {year} Zhiping Lai'
     license:
       enable: true
       allow_derivatives: false
