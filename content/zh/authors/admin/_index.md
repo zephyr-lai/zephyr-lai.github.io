@@ -65,7 +65,6 @@ education:
     date_start: 2019-09-01
     date_end: 2022-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -75,33 +74,44 @@ education:
     date_end: 2019-06-30
     summary: |
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Senior Engineer
-    company_name: Shanghai LEDA Technology Co., Ltd.
+  - position: 研发工程师
+    company_name: 上海立芯软件科技有限公司
     company_url: 'https://ledatech.cn/'
     company_logo: ''
     date_start: 2022-07-03
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+    summary: |-
+
+  - position: 算法实习生
+    company_name: 字节跳动有限公司
+    company_url: 'https://www.bytedance.com/zh/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-10-31
+    date_end: 2022-03-29
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      接手头条搜索中台系统，对搜索流程的 query 分析、召回、排序等各阶段算法进行优化，支持公司的西瓜、剪映、resso 等海内外搜索业务。
+  - position: 见习研究员
+    company_name: 上海商汤智能科技有限公司
+    company_url: 'https://www.sensetime.com/cn/'
+    company_logo: ''
+    date_start: 2021-01-15
+    date_end: 2021-04-15
+    summary: |
+      - 将各条业务线模型接入模型池，适配商汤自研的深度学习框架 SenseParrots 及相关工具，为各类测试提供资源池，为业务模型验证提供有效支撑；
+      - 为业务线模型使用集群和容器云等各种资源提供支持，解决模型测试过程中产生的各类问题；
+      - 为SenseParrots提供算子及相关 API 支持，支持各类模型需求。
+  - position: 软件实习生
+    company_name: 复旦微电子集团
+    company_url: 'https://www.bytedance.com/zh/'
+    company_logo: ''
+    date_start: 2019-06-15
+    date_end: 2020-06-15
+    summary: |
+      - 作为项目主要开发人员参与基于线长驱动的 FPGA 全局布局多级框架的搭建及算法优化，适配公司研发的不同芯片产品；
+      - 设计合适的时延估计模型，为不同产品布局布线提供准确有效的时延信息；
+      - 解决用户使用过程中遇到的各类问题，支持用户提的新需求，为新产品提供支持；
+      - 取得的成果: 参与的两个项目均提前完成既定目标，在多次调整项目目标前提下效果仍比最终项目目标好 20% 和 5% 左右，此外还完成了一篇专利的撰写。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
