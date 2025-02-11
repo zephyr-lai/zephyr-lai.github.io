@@ -158,31 +158,56 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 工作奖项
+    url: 
+    # date: '2021-06-01'
+    # certificate_url: https://www.datacamp.com
+    # awarder: Coursera
+    # icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - 2024年10月获即时奖
+      - 2024年5月获即时奖
+      - 2023年11月获即时奖（首次颁发）
+  - title: 硕士奖项
+    url: 
+    # date: '2021-06-01'
+    # certificate_url: https://www.datacamp.com
+    # awarder: Coursera
+    # icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      - 2022年6月获复旦大学硕士生优秀学业奖学金 
+      - 2022年6月获复旦大学2022年度优秀毕业生
+      - 2021年10月获复旦大学2020-2021年度优秀学生
+      - 2021年10月获复旦大学华泰证券奖学金
+      - 2021年6月获复旦大学硕士生学年学业奖学金
+      - 2021年5月获第十七届“挑战杯”全国大学生课外学术科技作品竞赛市赛一等奖
+      - 2021年4月获第十七届“挑战杯”全国大学生课外学术科技作品竞赛校赛特等奖
+      - 2020年12月获“华为杯”第十七届中国研究生数学建模竞赛二等奖
+      - 2020年10月获复旦大学硕士生优秀学业奖学金
+      - 2020年9月获ICRA Robomaster 2020AI挑战赛三等奖
+      - 2020年6月获复旦大学硕士生学年学业奖学金
+      - 2019年10月获复旦大学硕士生优秀学业奖学金
+  - title: 本科奖项
+    url: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - 2019年6月获福州大学兴业奖学金
+      - 2018年11月获2018国际集成电路计算机辅助设计学术竞赛ICCAD第四名
+      - 2018年10月获福州大学2017至2018学年第二学期二等奖学金
+      - 2018年05月获2017-2018学年福州大学优秀共青团员
+      - 2018年04月获福州大学2017至2018学年第一学期三等奖学金
+      - 2017年11月获2016至2017学年度国家励志奖学金
+      - 2017年11月获福州大学2017年度精神文明建设先进个人
+      - 2017年10月获福州大学2016至2017学年第二学期三等奖学金
+      - 2017年05月获2016-2017学年福州大学数学与计算机科学学院/软件学院“第四届计算机知识竞赛”专业组二等奖
+      - 2017年05月获2016-2017学年福州大学数学与计算机科学学院“十佳大学生”
+      - 2017年05月获2016-2017学年福州大学优秀共青团干部
+      - 2017年04月获福州大学2016至2017学年第一学期三等奖学金
+      - 2016年12月获2015至2016学年度国家励志奖学金
+      - 2016年10月获福州大学2015至2016学年第二学期二等奖学金
+      - 2016年05月获2015-2016学年福州大学数学与计算机科学学院“优秀共青团干部”
+      - 2016年04月获福州大学2015至2016学年第一学期一等奖学金
+  # -  2015年10月获福州大学经济与管理学院第五届初等数学邀请赛优秀奖
+
 ---
 
 ## 背景
