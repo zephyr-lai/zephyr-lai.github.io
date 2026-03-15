@@ -8,6 +8,9 @@ title: Zhiping Lai's Homepage
 # Website URL
 baseURL: 'https://example.com/'
 
+# Favicon
+favicon: '/favicon.ico'
+
 ############################
 ## LANGUAGE
 ############################

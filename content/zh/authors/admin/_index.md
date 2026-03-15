@@ -81,7 +81,7 @@ work:
     company_logo: ''
     date_start: 2022-07-03
     date_end: ''
-    summary: |-
+    summary: ''
 
   - position: 算法实习生
     company_name: 字节跳动有限公司

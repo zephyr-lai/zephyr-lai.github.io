@@ -1,52 +1,139 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Zhiping Lai's Personal Website
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+基于 Hugo Blox Builder 构建的个人学术网站，展示个人简历、学术论文、项目经历等内容。
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## 项目信息
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+- **姓名**: 赖志平 (Zhiping Lai)
+- **职位**: 资深研发工程师 (Senior Engineer)
+- **机构**: 上海立芯软件科技有限公司 (Shanghai LEDA Technology Co., Ltd.)
+- **网站**: [https://zephyr-lai.github.io](https://zephyr-lai.github.io)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## 技术栈
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+- **静态网站生成器**: Hugo
+- **主题框架**: Hugo Blox Builder
+- **内容格式**: Markdown, BibTeX
+- **样式**: SCSS/CSS
+- **部署**: GitHub Pages
+- **多语言**: 中英文双语支持
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+## 主要功能
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+- 📄 **个人简历**: 展示个人信息、教育背景、工作经历
+- 📚 **学术论文**: 支持 BibTeX 导入，自动生成引用格式
+- 🚀 **项目展示**: 网格布局展示项目，支持图片和链接
+- 📝 **博客文章**: Markdown 格式，支持数学公式和图表
+- 🎤 **演讲活动**: 展示学术演讲和会议参与
+- 🌐 **多语言**: 支持中英文切换
+- 📱 **响应式**: 移动端友好的现代化设计
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## 快速开始
 
-## We ask you, humbly, to support this open source movement
+### 环境要求
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+- Hugo 0.136.5+
+- Git
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### 本地运行
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+```bash
+# 克隆项目
+git clone https://github.com/zephyr-lai/zephyr-lai.github.io.git
+cd zephyr-lai.github.io
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+# 安装 Hugo (macOS)
+brew install hugo
 
-## Demo image credits
+# 启动开发服务器
+hugo server -D
 
-- [Unsplash](https://unsplash.com)
+# 访问 http://localhost:1313
+```
 
-## Latest news
+### 构建部署
 
-<!--START_SECTION:news-->
+```bash
+# 构建静态文件
+hugo --minify
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
-<!--END_SECTION:news-->
+# 推送到 GitHub Pages
+git add .
+git commit -m "Update site"
+git push origin main
+```
+
+## 项目结构
+
+```
+├── config/              # 配置文件
+│   └── _default/        # 默认配置
+├── content/             # 内容文件
+│   ├── en/             # 英文内容
+│   └── zh/             # 中文内容
+├── assets/             # 静态资源
+├── static/             # 静态文件
+├── themes/             # 主题文件
+└── public/             # 构建输出
+```
+
+## 内容管理
+
+### 更新个人信息
+编辑 `content/en/authors/admin/_index.md` 或 `content/zh/authors/admin/_index.md`
+
+### 添加新内容
+```bash
+# 创建新文章
+hugo new content/post/my-new-post.md
+
+# 创建新项目
+hugo new content/project/my-project.md
+```
+
+### 导入论文
+将 BibTeX 文件内容添加到 `publications.bib`，系统会自动生成论文页面。
+
+## 自定义配置
+
+### 主题设置
+修改 `config/_default/params.yaml` 调整：
+- 主题颜色和外观
+- 功能开关
+- SEO 设置
+- 页眉页脚配置
+
+### 自定义样式
+创建 `assets/scss/custom/custom.scss` 添加自定义 CSS。
+
+## 联系方式
+
+- 📧 Email: [lzping1996@gmail.com](mailto:lzping1996@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/志平-赖-45ab5134a](https://www.linkedin.com/in/%E5%BF%97%E5%B9%B3-%E8%B5%96-45ab5134a/)
+- 🐙 GitHub: [github.com/zephyr-lai](https://github.com/zephyr-lai)
+- 🎓 Google Scholar: [scholar.google.com/citations?user=oYRK793tsGYC](https://scholar.google.com/citations?user=oYRK793tsGYC&hl=zh-CN)
+
+## 研究兴趣
+
+- Electronic Design Automation (EDA)
+- Artificial Intelligence (AI)
+- Brain-Computer Interface (BCI)
+- Robotics
+- Quantitative Finance
+
+## 教育背景
+
+- **硕士**: 计算机应用技术 - 复旦大学 (2019-2022)
+- **学士**: 计算机科学与技术 - 福州大学 (2015-2019)
+
+## 许可证
+
+本项目基于 MIT 许可证开源。详见 [LICENSE](LICENSE) 文件。
+
+## 致谢
+
+感谢 [Hugo Blox Builder](https://hugoblox.com/) 提供的优秀主题框架。
+
+---
+
+*最后更新: 2025年1月*
