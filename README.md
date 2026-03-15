@@ -1,13 +1,6 @@
-# Zhiping Lai's Personal Website
+# Personal Academic Website
 
 基于 Hugo Blox Builder 构建的个人学术网站，展示个人简历、学术论文、项目经历等内容。
-
-## 项目信息
-
-- **姓名**: 赖志平 (Zhiping Lai)
-- **职位**: 资深研发工程师 (Senior Engineer)
-- **机构**: 上海立芯软件科技有限公司 (Shanghai LEDA Technology Co., Ltd.)
-- **网站**: [https://zephyr-lai.github.io](https://zephyr-lai.github.io)
 
 ## 技术栈
 
@@ -105,26 +98,6 @@ hugo new content/project/my-project.md
 
 ### 自定义样式
 创建 `assets/scss/custom/custom.scss` 添加自定义 CSS。
-
-## 联系方式
-
-- 📧 Email: [lzping1996@gmail.com](mailto:lzping1996@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/志平-赖-45ab5134a](https://www.linkedin.com/in/%E5%BF%97%E5%B9%B3-%E8%B5%96-45ab5134a/)
-- 🐙 GitHub: [github.com/zephyr-lai](https://github.com/zephyr-lai)
-- 🎓 Google Scholar: [scholar.google.com/citations?user=oYRK793tsGYC](https://scholar.google.com/citations?user=oYRK793tsGYC&hl=zh-CN)
-
-## 研究兴趣
-
-- Electronic Design Automation (EDA)
-- Artificial Intelligence (AI)
-- Brain-Computer Interface (BCI)
-- Robotics
-- Quantitative Finance
-
-## 教育背景
-
-- **硕士**: 计算机应用技术 - 复旦大学 (2019-2022)
-- **学士**: 计算机科学与技术 - 福州大学 (2015-2019)
 
 ## 许可证
 
