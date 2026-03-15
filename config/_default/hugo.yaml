@@ -6,7 +6,7 @@
 # Website name
 title: Zhiping Lai's Homepage
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://zephyr-lai.github.io/'
 
 # Favicon
 favicon: '/favicon.ico'
